@@ -40,24 +40,5 @@ background-color: grey;
      height: 300px;
      width: 100%;
 }
-.Main3
-{
-    display: flex;
-     justify-content: top;
-     align-items: center;
-     flex-direction: column;
-     margin-top:20px;
-     height: 500px;
-     width: 100%;
-}
-.button-3
-{
-    margin-top: 10px;
-}
-.block
-{
-    margin-top: 20px;
-    
 
-}
 
