@@ -1,0 +1,63 @@
+#Sait
+{
+    text-decoration: none;
+    color: black;
+    
+}
+.Main
+{
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.Menu
+{
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button
+{
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 4px;
+    background-color: white;
+}
+.button:hover
+{
+background-color: grey;
+}
+.Main2
+{
+     background-color: blue;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-top:200px;
+     height: 300px;
+     width: 100%;
+}
+.Main3
+{
+    display: flex;
+     justify-content: top;
+     align-items: center;
+     flex-direction: column;
+     margin-top:20px;
+     height: 500px;
+     width: 100%;
+}
+.button-3
+{
+    margin-top: 10px;
+}
+.block
+{
+    margin-top: 20px;
+    
+
+}
+
